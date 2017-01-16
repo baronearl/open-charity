@@ -1,0 +1,137 @@
+#top-nav {
+    position: initial;
+    height: auto;
+    border-bottom: 1px solid #b9bdc1;
+    background: #fff;
+    z-index: 100;
+}
+#logo_div {
+    width: 95%;
+    padding-left: 5%;
+}
+#none_logo_div {
+    width: 100%;
+    text-align: left;
+    padding-left: 5%;
+}
+#none_logo_div ul li a {
+    color: #000;
+    font-size: 70%;
+}
+#none_logo_div ul li {
+    display: inline;
+    margin-right: 2%;
+}
+#page_wrapper {
+    margin-top: 0;
+}
+#middle-center {
+    height: auto;
+}
+#home_description{
+    padding: 0 5px;
+}
+#home_description > p{
+    font-size: 90% !important;
+}
+#home_description > p:nth-child(2){
+    font-size: 80% !important;
+}
+#next_event > span:nth-child(1), #next_event > span:nth-child(2){
+    font-size: 90%;
+}
+#next_desc{
+    font-size: 80%;
+}
+a.style_register{
+    padding: 6px 9px;
+}
+h1 {
+    font-size: 110% !important;
+}
+#low-int-la h2, #low-aft-la h2, #low-after-blog h2{
+    font-size: 100%;
+}
+.mid-clear-head{
+    font-size: 95%;
+}
+.mid-clear-description{
+    font-size: 90%;
+    padding: 0 5px;
+}
+#home_description > p{
+    font-size: 100%;
+}
+#home_description > p:nth-child(2){
+    font-size: 90%;
+}
+#next_crumb {
+    height: auto;
+    padding: 10px;
+}
+#next_info{
+    width: 100%;
+    float: left;
+}
+#next_info{
+    width: 100%;
+}
+#register_span{
+    float: left;
+    width: 100%;
+    margin-top: 10px;
+}
+#low-int-la {
+    padding: 0 0% 3% 0%;
+}
+.mid-action-intake{
+    padding: 0 20% !important;
+}
+a.style_up {
+    padding: 9px;
+}
+#encap-with-bord{
+    padding: 0%;
+}
+.mem-disp{
+    width: 100% !important;
+    margin-bottom: 50px !important;
+    text-align: center;
+}
+.mem-disp:nth-child(3){
+    margin-right: 0%;
+}
+
+#ind-mission{
+    padding: 0 1% 4% 1%;
+}
+.mid-clear{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.mem-disp-img{
+    margin: -40px 0 0 35%;
+    text-align: center;
+}
+#horiz-blog{
+    display: flex;
+    padding: 0 1%;
+}
+.blog-disp{
+    width: -moz-calc(100% - 50px);    /* Firefox */
+    width: -webkit-calc(100% - 50px);    /* WebKit */
+    width: -o-calc(100% - 50px);    /* Opera */
+    width: calc(100% - 50px);    /* Standard */
+}
+.blog-disp:nth-child(2), .blog-disp:nth-child(3), .blog-disp:nth-child(4){
+    display:none;
+}
+#user-login{
+    width: 98%;
+    margin: 1%;
+    float: left;
+}
+footer{
+    height: auto;
+    font-size: 70%;
+}

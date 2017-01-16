@@ -1,0 +1,19 @@
+name = Charity
+description = A sample project for open charity
+core = 7.x
+version = VERSION
+engine = phptemplate
+
+stylesheets[all][] = css/style.css
+stylesheets[all][] = css/layout.css
+stylesheets[all and (max-width: 600px)][] = css/style-600.css
+stylesheets[all and (max-width: 800px)][] = css/style-800.css 
+stylesheets[print][] = css/print.css
+
+regions[header] = Header
+regions[sidebar_first] = Right sidebar
+regions[content] = Content
+regions[footer] = Footer
+
+features[] = name
+features[] = main_menu

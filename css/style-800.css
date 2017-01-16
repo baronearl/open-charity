@@ -1,0 +1,71 @@
+#top-nav {
+    position: initial;
+    height: auto;
+    border-bottom: 1px solid #b9bdc1;
+    background: #fff;
+    z-index: 100;
+}
+#logo_div {
+    width: 95%;
+    padding-left: 5%;
+}
+#none_logo_div {
+    width: 100%;
+    text-align: left;
+    padding-left: 5%;
+}
+#page_wrapper {
+    margin-top: 0;
+}
+#middle-center {
+    height: auto;
+}
+h1 {
+    font-size: 200%;
+}
+#home_description > p{
+    font-size: 100%;
+}
+#home_description > p:nth-child(2){
+    font-size: 90%;
+}
+#next_crumb {
+    height: auto;
+}
+#next_info{
+    width: 100%;
+    float: left;
+}
+#next_info{
+    width: 100%;
+}
+#register_span{
+    float: left;
+    width: 100%;
+    margin-top: 10px;
+}
+#low-int-la {
+    padding: 0 0% 3% 0%;
+}
+.mid-action-intake{
+    padding: 0%;
+}
+a.style_up {
+    padding: 9px;
+}
+#encap-with-bord{
+    padding: 0%;
+}
+.mem-disp{
+    width: 32.6%;
+    margin-right: 1%;
+}
+.mem-disp:nth-child(3){
+    margin-right: 0%;
+}
+#ind-mission{
+    padding: 0 1% 4% 1%;
+}
+#horiz-blog{
+    padding: 0 1%;
+}
