@@ -1,5 +1,5 @@
 # open-charity
-A sample project from Compucorp
+A sample project for Compucorp.
 I’ve successfully lauched the website and drupal 7 theme as well. I encountered some challenges while trying to use AWS.
 My credit card was rejected by their system of which I know no reason about it. I then hosted the website on a shared hosting server.
 I was able to use SCSS but it couldn’t compile on the shared hosting so I renamed it default.scss inside the CSS folder of the theme 
